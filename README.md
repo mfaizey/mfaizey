@@ -4,11 +4,6 @@
 </p>
 
 <p align="center" width="100%">
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"/>
   <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="ethereum" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"/>
