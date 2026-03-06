@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center" width="100%">
 	<br/>
-	<a href="https://mfaizey.framer.website"> <!---<img src="https://img.shields.io/badge/BunsDev.com-%23FFFFFF?link=https%3A%2F%2FBunsDev.com" --->alt="mfaizey.framer.website"></a>
+	<a href="https://mfaizey.framer.website">alt="mfaizey.framer.website"></a>
 	<a href="https://github.com/mfaizey"><img src="https://img.shields.io/github/followers/bunsdev.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<!---<a href="https://twitter.com/0xBuns"><img src="https://img.shields.io/twitter/follow/0xbuns?label=Twitter&style=social" alt="X (Twitter)"></a>--->
 	<a href="https://www.linkedin.com/in/mfaizey"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
