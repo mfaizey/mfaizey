@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" width="100%">
-    <a href="https://dotnet.microsoft.com/en-us](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"/>
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"/>
   <img src="https://github.com/mfaizey/mfaizey/blob/main/blazor.svg" alt=".NET" width="40" height="40"/> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"/>
   <img src="https://icon.icepanel.io/Technology/svg/Azure-Devops.svg" alt="ethereum" width="40" height="40"/>
