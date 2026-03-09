@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mfaizey/mfaizey/main/header.png" alt="Header" width="100%">
+  
   
   <br/>
   
@@ -9,26 +9,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineer;DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </p>
 
-  <p align="center">
-    <a href="https://github.com/mfaizey">
-      <img src="https://github-profile-trouphy.vercel.app/?username=mfaizey&theme=tokyonight&margin-w=15" alt="mfaizey's Trophies" />
-    </a>
-  </p>
-</div>
-
 <hr/>
 
 ### 🚀 About Me
 I'm a passionate software developer dedicated to building efficient, scalable, and user-centric applications. I specialize in the .NET ecosystem, cloud architecture, and DevOps practices.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfaizey&show_icons=true&theme=tokyonight&rank_icon=github" alt="mfaizey's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizey&layout=compact&theme=tokyonight" alt="mfaizey's Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaizey&theme=tokyonight" alt="mfaizey's Streak" />
-</div>
 
 <hr/>
 
@@ -52,10 +36,10 @@ I'm a passionate software developer dedicated to building efficient, scalable, a
   <a href="https://linkedin.com/in/mfaizey">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:faizan@portefeuille.website">
+  <a href="mailto:faizan@p">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://twitter.com/mfaizey">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
