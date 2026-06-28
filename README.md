@@ -36,7 +36,7 @@ I'm a passionate software developer dedicated to building efficient, scalable, a
   <a href="https://linkedin.com/in/mfaizey">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:faizan@p">
+  <a href="mailto:xamarindeveloper@icloud.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/mfaizey">
