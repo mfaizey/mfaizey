@@ -23,8 +23,8 @@ A **ROSCA / committee fintech app**, digitizing rotating savings groups end to e
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfaizey&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizey&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mfaizey&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizey&layout=compact&hide_border=true&cache_seconds=86400" height="160" />  
 </p>
 
 ### 🤝 Work with me
