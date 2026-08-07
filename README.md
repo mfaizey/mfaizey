@@ -21,12 +21,6 @@ A **ROSCA / committee fintech app**, digitizing rotating savings groups end to e
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mfaizey&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaizey&layout=compact&hide_border=true&cache_seconds=86400" height="160" />  
-</p>
-
 ### 🤝 Work with me
 I offer fixed-price **.NET MAUI performance audits, crash-fix sprints, and store-readiness packages**.
 📫 [Portfolio](https://mfaizey.framer.website/) · [LinkedIn](https://www.linkedin.com/in/mfaizey) · Open to remote & contract roles
