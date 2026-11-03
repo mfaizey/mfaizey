@@ -93,6 +93,8 @@ _Also comfortable with: REST APIs and CI/CD pipelines._
 ![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Tron](https://img.shields.io/badge/Tron-EF0027?style=for-the-badge&logo=tron&logoColor=white)
+![Tornado_Cash](https://img.shields.io/badge/Tornado_Cash-222222?style=for-the-badge&logoColor=white)
 
 Crypto & fintech experience across centralized exchanges (Binance, Coinbase, Kraken) and decentralized exchanges/protocols (Uniswap, PancakeSwap, Curve, SushiSwap), plus wallet integrations, token standards (ERC-20/721/1155), and on-chain/off-chain data flows.
 
