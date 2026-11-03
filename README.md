@@ -148,4 +148,4 @@ Security-aware development and review: OWASP Top 10 mitigation, secure coding pr
 
 ### 🤝 Work with me
 I offer fixed-price **.NET MAUI performance audits, crash-fix sprints, and store-readiness packages**.
-📫 [Portfolio](https://mfaizey.framer.website/) · [LinkedIn](https://www.linkedin.com/in/mfaizey) · Open to remote & contract roles
+📫 [Portfolio](https://mfaizey.framer.website/) · Open to remote & contract roles
