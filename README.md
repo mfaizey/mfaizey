@@ -125,6 +125,7 @@ Crypto & fintech experience across centralized exchanges (Binance, Coinbase, Kra
 ![Windsurf](https://img.shields.io/badge/Windsurf-0B6EFD?style=for-the-badge)
 ![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge)
 ![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Omarchy](https://img.shields.io/badge/Omarchy-1F1F1F?style=for-the-badge&logo=linux&logoColor=white)
 
 ### ⚙️ DevOps Engineer
 I can design, automate, and operate the delivery pipeline for web and multi-platform products:
