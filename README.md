@@ -137,6 +137,7 @@ I can design, automate, and operate the delivery pipeline for web and multi-plat
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
 
 Security-aware development and review: OWASP Top 10 mitigation, secure coding practices, vulnerability assessment, dependency & secret scanning, TLS/HTTPS hardening, auth & session security, and basic penetration testing.
 
