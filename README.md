@@ -110,6 +110,14 @@ I can design, automate, and operate the delivery pipeline for web and multi-plat
 - **Operations:** Linux administration, Bash/PowerShell scripting, Nginx reverse proxy, TLS, secrets management
 - **Release Strategy:** blue/green & canary deployments, rollback automation, zero-downtime releases
 
+### 🔐 Cybersecurity
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+Security-aware development and review: OWASP Top 10 mitigation, secure coding practices, vulnerability assessment, dependency & secret scanning, TLS/HTTPS hardening, auth & session security, and basic penetration testing.
+
 ### 🤝 Work with me
 I offer fixed-price **.NET MAUI performance audits, crash-fix sprints, and store-readiness packages**.
 📫 [Portfolio](https://mfaizey.framer.website/) · [LinkedIn](https://www.linkedin.com/in/mfaizey) · Open to remote & contract roles
