@@ -67,6 +67,19 @@ A **ROSCA / committee fintech app**, digitizing rotating savings groups end to e
 
 _Also comfortable with: REST APIs and CI/CD pipelines._
 
+#### Blockchain & Web3
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-6C5CE7?style=for-the-badge)
+
+Crypto & fintech experience across centralized exchanges (Binance, Coinbase, Kraken) and decentralized exchanges/protocols (Uniswap, PancakeSwap, Curve, SushiSwap), plus wallet integrations, token standards (ERC-20/721/1155), and on-chain/off-chain data flows.
+
+### 💼 Freelance Platforms
+![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)
+![Contra](https://img.shields.io/badge/Contra-000000?style=for-the-badge&logoColor=white)
+
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
